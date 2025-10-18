@@ -1,5 +1,3 @@
-**Jessica Wainaina**
-
 **Development of parts of pipeline for extraction of Geodata from PDFS**
 
 This repository contains all code and notebooks for extracting, processing, and mapping main study areas and locality information from a collection of academic geoscience theses (PDFs).
